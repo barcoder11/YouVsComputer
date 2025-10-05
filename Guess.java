@@ -29,7 +29,7 @@ public class Guess {
         }
         else  {
             System.out.println("Correct guess");
-            System.out.println("It took you " + track + " great job ");
+            System.out.println("It took you " + track + "tries ");
             break;} //end whileloop
         }
         scan.close();
